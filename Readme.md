@@ -1,4 +1,4 @@
-# kaza_assignment
+# User Management: KazaNearby Assignment
 
 This is an internship assignment for Kaza Nearby.
 
