@@ -50,3 +50,4 @@ This Flutter project fetches dummy person data from JSONPlaceholder and allows u
 
 Below is a demo video of the project:
 
+https://github.com/user-attachments/assets/c9670c50-c20a-485f-bb06-c9358fc90975
