@@ -12,7 +12,7 @@ This Flutter project fetches dummy person data from JSONPlaceholder and allows u
 
 1. Navigate to the `server` directory:
    ```sh
-   cd /a:/Code/Flutter/kazanearby/server
+   cd kazanearby/server
    ```
 
 2. Install the dependencies:
@@ -31,7 +31,7 @@ This Flutter project fetches dummy person data from JSONPlaceholder and allows u
 
 1. Navigate to the `kaza_assignment` directory:
    ```sh
-   cd /a:/Code/Flutter/kazanearby/kaza_assignment
+   cd kazanearby/kaza_assignment
    ```
 
 2. Get the Flutter dependencies:
